@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm Connor from Canada.
+Welcome to my profile! My name is Connor and I love working on backend systems.
